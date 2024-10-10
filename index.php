@@ -65,7 +65,7 @@ if (!empty($_SESSION['activa'])) {
                 <img src="Cliente/img/logo.png" height="400px" width="400px" style="padding-top: 20px;">
             </div>
             <div class="col" style="background-color: pink;">
-            <h1 style="color: #2a1611">Autentificacion</h1>
+            <h1 style="color: #2a1611">Autentificacion - MIRIAM PALILLERO SALAZAR</h1>
 
             <form style="padding:55px;" method="POST">
                 <div>
