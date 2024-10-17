@@ -67,6 +67,7 @@ if (!empty($_SESSION['activa'])) {
             <div class="col" style="background-color: pink;">
             <h1 style="color: #2a1611">Autentificacion - MIRIAM PALILLERO SALAZAR</h1>
             <h1>Hola, estoy realizando un cambio</h1>
+            <h2>Hola, estoy realizando otro cambio</h2>
 
             <form style="padding:55px;" method="POST">
                 <div>
